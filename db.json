@@ -1,4 +1,5 @@
 {
+    "compensaciones": [
     {
     "hogar": "205351",
     "clase": "CGVS+Traslado",
@@ -20,4 +21,5 @@
     "beneficiario": "Elber Gomez",
     "valor": "34530"
     }
+        ]
 }
