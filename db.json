@@ -1,11 +1,23 @@
 {
-  "posts": [
     {
-      "id": 1,
-      "title": "hello"
+    "hogar": 205351,
+    "clase": "CGVS+Traslado",
+    "dctobeneficiario": "12345",
+    "beneficiario": "Pepito Perez",
+    "valor": "45350"
+    },
+    {
+    "hogar": 204523,
+    "clase": "CAEI+Traslado",
+    "dctobeneficiario": "67890",
+    "beneficiario": "Fulanito Gomez",
+    "valor": "64520"
+    },
+    {
+    "hogar": 202534,
+    "clase": "CAEI+TON",
+    "dctobeneficiario": "33441267",
+    "beneficiario": "Elber Gomez",
+    "valor": "34530"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
